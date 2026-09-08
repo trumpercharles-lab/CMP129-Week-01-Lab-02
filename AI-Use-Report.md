@@ -11,8 +11,8 @@
 
 Did you use an AI tool for this lab?
 
-- [X] Yes
-- [ ] No
+- [ ] Yes
+- [X] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -20,13 +20,13 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool: GitHub Copilot
+Tool:
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response: I asked the AI how to make exponents in java, 
+Response: 
 
 ## How I Used the Assistance
 
@@ -44,10 +44,10 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: Saving \n inside of String variables to hold more information.
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: No AI tool was used
